@@ -155,4 +155,28 @@ img {
     .lessons .col {
         width: 100%;
     }
+
+    div.card{
+        margin-bottom: 60px;
+    }
+
+    section.why-us{
+        background-color:#222222 ;
+    }
+
+    .col.col-left{
+        margin-bottom: 50px;
+    }
+
+    .why-us {
+        margin-bottom: 0rem;
+    }
+
+    .steps{
+        margin: 0rem;
+    }
+
+    section.why-us div.container>h2{
+        padding-top: 35px;
+    }
 }
